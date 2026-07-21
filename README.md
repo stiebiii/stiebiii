@@ -1,40 +1,30 @@
-<h1 align="center">Stiebi</h1>
+# 👋 Hey, I'm Stiebi
 
-<h3 align="center">Founder &amp; Full-Stack Engineer — I build and ship production software.</h3>
+### 💻 Full-Stack Engineer & Reverse Engineer
 
-<p align="center"><sub>Three products, end to end — from the database to the app store.</sub></p>
+I build and ship my own products end to end — from the database to the app store —
+and take software apart to understand exactly how it works. Focused on security,
+anti-cheat and AI health.
 
-<br/>
+### 🚀 What I'm Working On
 
-## Ventures
+- **[Aellic](https://aellic.com)** — AI health platform: vitals, training, nutrition & cycle data turned into one intelligent coach. *Launching soon.*
+- **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM: rule engine, memory & asset signatures, self-serve dashboard.
+- **[Halcyon](https://halcyonetworks.org)** — development studio: web, bots & automation for clients.
 
-<table>
-  <tr>
-    <td width="170" valign="top"><b>Aellic</b><br/><sub><a href="https://aellic.com">aellic.com</a></sub></td>
-    <td valign="top">
-      <b>AI health platform.</b> <em>"See your health clearly."</em><br/>
-      Turns vitals, training, nutrition and cycle data into one intelligent coach —
-      AI-native from the ground up.
-    </td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><b>Hoaxeye</b><br/><sub><a href="https://hoaxeye.net">hoaxeye.net</a></sub></td>
-    <td valign="top">
-      <b>Anti-cheat for FiveM.</b> Real-time cheat detection for live communities —
-      rule engine, memory &amp; asset signatures, self-serve dashboard.
-    </td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><b>Halcyon</b><br/><sub><a href="https://halcyonetworks.org">halcyonetworks.org</a></sub></td>
-    <td valign="top">
-      <b>Development studio.</b> <em>"You have an idea. We ship it."</em><br/>
-      Web, bots and automation — built fast, finished to a high standard.
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack
 
-<br/>
-
-## Stack
-
-Python · TypeScript · React Native · FastAPI · Node.js · PostgreSQL · Cloudflare · Docker
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat" alt="Assembly" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
