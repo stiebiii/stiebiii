@@ -2,10 +2,7 @@
 
 <h3 align="center">Founder &amp; Full-Stack Engineer — I build and ship production software.</h3>
 
-<p align="center">
-  Three products, built end-to-end: an AI health platform, a security SaaS, and a studio.<br/>
-  From the database to the app store — I own the whole stack and ship it live.
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stiebiii&style=for-the-badge&color=1F6F5A&label=PROFILE+VIEWS" alt="Profile views" />
