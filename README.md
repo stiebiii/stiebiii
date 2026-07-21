@@ -18,7 +18,7 @@
     <td valign="top">
       <b>AI health platform.</b> <em>"See your health clearly."</em><br/>
       Turns vitals, training, nutrition and cycle data into one intelligent coach.
-      Python backend, React&nbsp;Native app, AI-native from the ground up.
+      AI-native from the ground up.
     </td>
   </tr>
   <tr>
