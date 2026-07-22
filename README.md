@@ -2,9 +2,9 @@
 
 ### 💻 Full-Stack Engineer & Reverse Engineer
 
-I build and ship my own products end to end — from the database to the app store —
-and take software apart to understand exactly how it works. Focused on security,
-anti-cheat and AI health.
+I build and ship products end to end 
+ Focused on security,
+AI and health.
 
 ### 🚀 What I'm Working On
 
