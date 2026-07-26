@@ -8,9 +8,9 @@ Focused on security, AI and health.
 ### 🚀 What I'm Working On
 
 - **Aellic** — An AI health platform that turns your vitals, training, nutrition, cycle data, and much more into one intelligent coach. *Launching soon.*
-- **[Lyphere](https://lyphere.com)** — detection engineering: systems that catch hardware and software lying about themselves. Signal, evidence, verdict.
-  - **[Hoaxeye](https://hoaxeye.net)** — the flagship: real-time anti-cheat for FiveM — rule engine, memory & asset signatures, self-serve dashboard. *First open-source security drop: August 1, 2026.*
-- **[Halcyon](https://halcyonetworks.org)** — web studio for local businesses in Germany: websites at fixed prices, built to bring in work.
+- **[Lyphere](https://lyphere.com)** — detection engineering
+  - **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM — rule engine, memory & asset signatures, self-serve dashboard. *First open-source security drop: August 1, 2026.*
+- **[Halcyon](https://halcyonetworks.org)** — web studio for businesses.
 
 ### 🛠️ Tech Stack
 
