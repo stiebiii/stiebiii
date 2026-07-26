@@ -2,14 +2,14 @@
 
 ### 💻 Full-Stack Engineer & Reverse Engineer
 
-I build and ship products end to end — and take software apart to see how it ticks.
+I build and ship products end to end.
 Focused on security, AI and health.
 
 ### 🚀 What I'm Working On
 
-- **[Aellic](https://aellic.com)** — AI health platform: vitals, training, nutrition & cycle data turned into one intelligent coach. *Launching soon.*
-- **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM: rule engine, memory & asset signatures, self-serve dashboard. *First open-source security drop: August 1, 2026.*
-- **[Halcyon](https://halcyonetworks.org)** — development studio: web, bots & automation for clients.
+- **[Aellic](https://aellic.com)** —  An AI health platform that turns your vitals, training, nutrition, cycle data, and much more into one intelligent coach. *Launching soon.*
+- **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM: rule engine, memory & asset signatures, self-serve dashboard... *First open-source security drop: August 1, 2026.*
+- **[Halcyon](https://halcyonetworks.org)** — development studio: web, bots & AI automation for clients.
 
 ### 🛠️ Tech Stack
 
