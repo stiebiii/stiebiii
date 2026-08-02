@@ -9,7 +9,7 @@ Focused on security, AI and health.
 
 - **Aellic** — An AI health platform that turns your vitals, training, nutrition, cycle data, and much more into one intelligent coach. *Launching soon.*
 - **[Lyphere](https://lyphere.com)** — detection engineering
-  - **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM — rule engine, memory & asset signatures, self-serve dashboard. *First open-source security drop: August 1, 2026.*
+  - **[Hoaxeye](https://hoaxeye.net)** — real-time anti-cheat for FiveM — rule engine, memory & asset signatures, self-serve dashboard. *First open-source security drop: August 10, 2026.*
 - **[Halcyon](https://halcyonetworks.org)** — web studio for businesses.
 
 ### 🛠️ Tech Stack
